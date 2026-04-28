@@ -24,4 +24,4 @@
 5. Run `InventorySystem.java`.
 
 ---
-**Developed by Efrata Melku**
+**Developed by Betelhem kefelegn**
